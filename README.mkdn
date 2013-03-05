@@ -1,4 +1,4 @@
-XPerience™
+﻿XPerience™
  
 XPerience™ is a fork of the CyanogenMod project that provides support for the SEMC msm7x27 devices and XPerience™. These devices are: X8/W8
 
@@ -10,7 +10,7 @@ Getting Started
 
 To get started with XPerience™, you'll need to get familiar with Git and Repo.
 
-To initialize your local repository using the XPerience trees, use a command like this:
+To initialize your local repository using the XPerience trees, use a command like this:  
 
 repo init -u git://github.com/XPERIENCE-CN/android.git -b jellybean
 
