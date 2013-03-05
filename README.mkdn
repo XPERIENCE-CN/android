@@ -1,7 +1,7 @@
 XPerience™
 ===========
 
-XPerience™  is a fork of the CyanogenMod project that provides support for the SEMC msm7x27 devices and miniCM.
+XPerience™  is a fork of the CyanogenMod project and miniCM that provides support for the SEMC msm7x27 devices.
 These devices are: X8/W8
 
 All patches are welcome!
