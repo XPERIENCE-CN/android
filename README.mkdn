@@ -33,7 +33,8 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
     repo init -u git://github.com/CyanogenMod/android.git -b gingerbread
 and
-   repo init -u git://github.com/XPERIENCE-CN/android.git -b gingerbread
+
+    repo init -u git://github.com/XPERIENCE-CN/android.git -b gingerbread
    
 Then to sync up:
 
